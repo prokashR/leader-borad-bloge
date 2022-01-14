@@ -214,9 +214,10 @@ span{
 ---------------------------------------*/
 @media only screen and (max-width:688px) {
     header{
-        width:300px;
+        width:500px;
         display: flex;
         justify-content: center;
+        flex-wrap: wrap;
     }
     .container{
         width: 100%;
